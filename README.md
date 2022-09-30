@@ -15,7 +15,10 @@
   </a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hunking9797&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+🔥My Stats:
+<div id="Streaks-info" align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Hunking9797&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 
 
 <!--
