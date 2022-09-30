@@ -15,6 +15,14 @@
   <img src="https://komarev.com/ghpvc/?username=Hunking9797&style=flat-square&color=blue" alt=""/>
 </div>
 
+👨‍💻 About Me :
+<div>
+  <p> I am a Undergraduate Student  from India. <p>
+    <li> 🔭 I’m interested in working as a Software Engineer and contributing to frontend and backend for building web applications. </li>  
+    <li> ⚡ In my free time, I solve sudoko and watch sci-fi movies. </li>
+    <li> 🏫 Currently I am pursuing Computer Science degree from KLS Gogte Institute of Technology, Belagavi. </li>
+</div>
+<br><br>
 
 🛠️ Languages and Tools :
 <div>
@@ -34,7 +42,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hunking9797&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunking9797&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Hunking9797/Hunking9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
