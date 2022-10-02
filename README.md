@@ -21,6 +21,7 @@
     <li> 🔭 I’m interested in working as a Software Engineer and contributing to frontend and backend for building web applications. </li>  
     <li> ⚡ In my free time, I solve sudoko and watch sci-fi movies. </li>
     <li> 🏫 Currently I am pursuing Computer Science degree from KLS Gogte Institute of Technology, Belagavi. </li>
+    <li> 👯 I’m looking to collaborate on Web Development and Software Development projects. </li>
 </div>
 <br><br>
 
