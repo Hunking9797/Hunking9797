@@ -44,7 +44,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hunking9797&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunking9797&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunking9797&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 Badges: <br>
 [![@hunking9797's Holopin board](https://holopin.io/api/user/board?user=hunking9797)](https://holopin.io/@hunking9797)
