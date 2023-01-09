@@ -56,9 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunking9797"/>
 </div> -->
 
-Badges: <br>
-
-[![@hunking9797's Holopin board](https://holopin.io/api/user/board?user=hunking9797)](https://holopin.io/@hunking9797)
 
 <!--
 **Hunking9797/Hunking9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
