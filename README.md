@@ -26,19 +26,19 @@
 <br><br>
 
 🛠️ Languages and Tools :
-<div>
-  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
+<div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C" alt="C" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  title="CSS3" alt="CSS" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="JavaScript" alt="JavaScript" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" title="Git" alt="Git" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="100" height="100" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="100" height="100"/>
           
           
           
@@ -47,12 +47,17 @@
 <br><br>
 
 🔥My Stats:<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hunking9797&theme=highcontrast"/>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hunking9797&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunking9797&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- My Top Languages:<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunking9797"/>
+</div> -->
 
 Badges: <br>
+
 [![@hunking9797's Holopin board](https://holopin.io/api/user/board?user=hunking9797)](https://holopin.io/@hunking9797)
 
 <!--
