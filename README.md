@@ -47,8 +47,8 @@
 <br><br>
 
 🔥My Stats:<br>
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunking9797&theme=highcontrast"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hunking9797"/>
 </div>
 
 <!-- My Top Languages:<br>
