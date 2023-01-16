@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/arun-ch-406a60205/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/ahalemani7gmail">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -38,10 +38,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" title="Git" alt="Git" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="100" height="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="100" height="100"/>
-          
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="100" height="100"/>      
 </div>
   
 <br><br>
