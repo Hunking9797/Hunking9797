@@ -52,13 +52,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hunking9797&theme=dark"/>
 </div>
-
-
-<!-- My Top Languages:<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunking9797"/>
-</div> -->
+  <img src="https://streak-stats.demolab.com/?user=Hunking9797&theme=chartreuse-dark"/>
+</div>
 
+<!-- 
+My Top Languages:<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunking9797&theme=chartreuse-dark"/>
+</div>
+ -->
 
 <!--
 **Hunking9797/Hunking9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
