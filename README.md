@@ -31,7 +31,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++ Logo" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="Java Logo" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML Logo" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  title="CSS3" alt="CSS" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="JavaScript" alt="JavaScript" width="100" height="100"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>&nbsp;
