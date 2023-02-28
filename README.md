@@ -34,7 +34,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML Logo" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  title="CSS3" alt="CSS Logo" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="JavaScript" alt="JavaScript Logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL Logo" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" title="Git" alt="Git" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="100" height="100" />
