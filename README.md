@@ -39,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter Logo" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy Logo" width="100" height="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas Logo" width="100" height="100"/>      
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" title="Flutter" alt="Flutter Logo" width="100" height="100"/>      
+  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" title="Dart" alt="Dart Logo" width="100" height="100"/>      
 </div>
   
 <br><br>
