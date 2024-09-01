@@ -17,11 +17,12 @@
 
 👨‍💻 About Me :
 <div>
-  <p> I am an Undergraduate student from India. <p>
-    <li> 🔭 I’m interested in working as a Software Engineer and contributing to software products and open source. </li>  
-    <li> ⚡ In my free time, I solve sudoko and watch sci-fi movies. </li>
-    <li> 🏫 Currently I am pursuing Computer Science degree from KLS Gogte Institute of Technology, Belagavi. </li>
-    <li> 👯 I’m looking to collaborate on Web Development and Software Development projects. </li>
+  <p>I am a Java Developer currently working at Tata Consultancy Services.</p>
+  <ul>
+    <li>🔭 I specialize in Computer Science and Engineering from KLS Gogte Institute of Technology, Belagavi.</li>  
+    <li>⚡ In my free time, I enjoy playing Table Tennis and solving Sudoku puzzles.</li>
+    <li>👯 I’m interested in collaborating on software development projects.</li>
+  </ul>
 </div>
 <br><br>
 
