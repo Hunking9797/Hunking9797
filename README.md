@@ -1,49 +1,60 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/arun-ch-406a60205/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/ArunchandraH">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hunking9797&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Hunking9797&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-👨‍💻 About Me :
-<div>
-  <p>I am a Java Developer currently working at Tata Consultancy Services.</p>
-  <ul>
-    <li>🔭 I specialise in Computer Science and Engineering from KLS Gogte Institute of Technology, Belagavi.</li>  
-    <li>⚡ In my free time, I enjoy playing Table Tennis and solving Sudoku puzzles.</li>
-    <li>👯 I’m interested in collaborating on software development projects.</li>
-  </ul>
-</div>
-<br><br>
+---
 
-🛠️ Languages and Tools :
+## 👨‍💻 About Me  
+
+Hi, I’m **Arunchandra Halemani** 👋  
+I’m a **Java Backend Developer at Tata Consultancy Services (TCS)** with a strong interest in building scalable backend systems.
+
+- 🎓 **B.E. in Computer Science & Engineering** – KLS Gogte Institute of Technology, Belagavi  
+- 💼 **Currently working as a Java Developer** on enterprise banking applications  
+- 🚀 Actively improving my skills in **Data Structures & Algorithms, Spring Boot, REST APIs, and System Design**  
+- 👯 Open to collaborating on **backend, Java, and Spring Boot projects**  
+- ⚡ In my free time: **Table Tennis 🏓 | Sudoku 🧩 | Competitive Coding**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Backend & Programming  
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="Jva Logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" title="SpringBoot" alt="SpringBoot" width="100" height="100"/>     
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="Spring" alt="Spring" width="100" height="100"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" title="Eclipse" alt="Eclipse" width="100" height="100"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" title="IntelliJ" alt="IntelliJ" width="100" height="100"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C" alt="C Logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++ logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML Logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  title="CSS3" alt="CSS Logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="JavaScript" alt="JavaScript Logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL Logo"  alt="MySQL Logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" title="Git" alt="Git Logo" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter Logo" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy Logo" width="100" height="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas Logo" width="100" height="100"/>   
-  
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" title="Spring Boot" alt="Spring Boot" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="Spring" alt="Spring" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
 </div>
-  
+
+### 🗄️ Databases & Tools  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" title="IntelliJ IDEA" alt="IntelliJ" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" title="Eclipse" alt="Eclipse" width="70" height="70"/>&nbsp;
+</div>
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: [Arunchandra Halemani](https://www.linkedin.com/in/arunchandra-halemani-406a60205/)
+- 🐦 Twitter: [@ArunchandraH](https://twitter.com/ArunchandraH)
+
+---
+
+⭐ *Always learning. Always building.*
