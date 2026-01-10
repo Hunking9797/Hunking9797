@@ -20,10 +20,10 @@
 ## 👨‍💻 About Me  
 
 Hi, I’m **Arunchandra Halemani** 👋  
-I’m a **Java Backend Developer at Tata Consultancy Services (TCS)** with a strong interest in building scalable backend systems.
+I’m a **Java Backend Developer at Tata Consultancy Services (TCS Digital)** with a strong interest in building scalable backend systems.
 
 - 🎓 **B.E. in Computer Science & Engineering** – KLS Gogte Institute of Technology, Belagavi  
-- 💼 **Currently working as a Java Developer** on enterprise banking applications  
+- 💼 **Currently working as a Java Developer** on Enterprise Banking Applications  
 - 🚀 Actively improving my skills in **Data Structures & Algorithms, Spring Boot, REST APIs, and System Design**  
 - 👯 Open to collaborating on **backend, Java, and Spring Boot projects**  
 - ⚡ In my free time: **Table Tennis 🏓 | Sudoku 🧩 | Competitive Coding**
@@ -46,6 +46,7 @@ I’m a **Java Backend Developer at Tata Consultancy Services (TCS)** with a str
   <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" title="IntelliJ IDEA" alt="IntelliJ" width="70" height="70"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" title="Eclipse" alt="Eclipse" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="70" height="70"/>&nbsp;
 </div>
 
 ---
