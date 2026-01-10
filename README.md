@@ -28,9 +28,13 @@
 
 🛠️ Languages and Tools :
 <div align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="Jva Logo" width="100" height="100"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" title="SpringBoot" alt="SpringBoot" width="100" height="100"/>     
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" title="Spring" alt="Spring" width="100" height="100"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" title="Eclipse" alt="Eclipse" width="100" height="100"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" title="IntelliJ" alt="IntelliJ" width="100" height="100"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" title="C" alt="C Logo" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++ logo" width="100" height="100"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="Jva Logo" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML Logo" width="100" height="100"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  title="CSS3" alt="CSS Logo" width="100" height="100"/>&nbsp;
@@ -39,9 +43,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" title="Git" alt="Git Logo" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter Logo" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy Logo" width="100" height="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas Logo" width="100" height="100"/>      
-  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" title="Flutter" alt="Flutter Logo" width="100" height="100"/>      
-  <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" title="Dart" alt="Dart Logo" width="100" height="100"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas Logo" width="100" height="100"/>   
+  
 </div>
   
 <br><br>
