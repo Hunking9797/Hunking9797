@@ -19,7 +19,7 @@
 <div>
   <p>I am a Java Developer currently working at Tata Consultancy Services.</p>
   <ul>
-    <li>🔭 I specialize in Computer Science and Engineering from KLS Gogte Institute of Technology, Belagavi.</li>  
+    <li>🔭 I specialise in Computer Science and Engineering from KLS Gogte Institute of Technology, Belagavi.</li>  
     <li>⚡ In my free time, I enjoy playing Table Tennis and solving Sudoku puzzles.</li>
     <li>👯 I’m interested in collaborating on software development projects.</li>
   </ul>
@@ -47,34 +47,3 @@
   
 </div>
   
-<br><br>
-
-🔥My Stats:<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunking9797&theme=dark"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hunking9797&theme=chartreuse-dark"/>
-</div>
-
-👨‍💻My Top Languages:<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunking9797&theme=chartreuse-dark"/>
-</div>
-
-<!--
-**Hunking9797/Hunking9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
