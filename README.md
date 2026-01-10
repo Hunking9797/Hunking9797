@@ -26,7 +26,7 @@ I’m a **Java Backend Developer at Tata Consultancy Services (TCS Digital)** wi
 - 💼 **Currently working as a Java Developer** on Enterprise Banking Applications  
 - 🚀 Actively improving my skills in **Data Structures & Algorithms, Spring Boot, REST APIs, and System Design**  
 - 👯 Open to collaborating on **backend, Java, and Spring Boot projects**  
-- ⚡ In my free time: **Table Tennis 🏓 | Sudoku 🧩 | Competitive Coding**
+- ⚡ In my free time: **Read Tech Blogs 🗒️ | Table Tennis 🏓 | Competitive Coding 💻**
 
 ---
 
